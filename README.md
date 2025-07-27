@@ -36,7 +36,7 @@ Here are a few cool projects I’ve worked on:
 - 🎵 **Sora_Player** – Sleek and modern Kotlin-based music player
 - 🕹️ **Glitchcore** – A gaming companion app (info, trailers, streams)
 - ✅ **Hito.do** – A minimalist To-Do application with local DB
-- 🍴 **HitoRecipo** – Recipes + video tutorials in one app
+- 🍴 **HitoRecipo** – Recipes app with RESTful API
 
 ---
 
