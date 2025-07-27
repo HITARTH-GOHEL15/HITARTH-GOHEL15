@@ -3,7 +3,7 @@
 
 🎯 Android Developer | Kotlin | Jetpack Compose | AI/ML Explorer  
 🚀 Building apps that solve real-world problems  
-🌱 Currently learning: TensorFlow Lite, FastAPI, HuggingFace
+🌱 Currently learning: Python, NumPy, Pandas
 
 ---
 
