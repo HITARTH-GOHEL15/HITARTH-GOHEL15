@@ -16,6 +16,8 @@
 ![Koin](https://img.shields.io/badge/Koin-3E3E3E?style=flat&logo=kotlin&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sqlite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![RESTful API](https://img.shields.io/badge/REST%20API-FF6C37?style=flat&logo=api&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ---
 
