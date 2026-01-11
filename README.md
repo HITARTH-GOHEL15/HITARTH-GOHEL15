@@ -3,7 +3,7 @@
 
 🎯 Android Developer | Kotlin | Jetpack Compose | AI/ML Explorer  
 🚀 Building apps that solve real-world problems  
-🌱 Currently learning: Python, NumPy, Pandas
+🌱 Currently learning: Python
 
 ---
 
